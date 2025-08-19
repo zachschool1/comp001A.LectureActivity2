@@ -1,3 +1,5 @@
+/* comment - primary style sheet */
+
 body {
     font-family: sans-serif;
     padding: 1em;
@@ -18,3 +20,4 @@ ul {
     list-style-type: square;
 }
 
+.content { background-color: blue; /* fixed "blu" is not a valid color value. It should be "blue". */ }
